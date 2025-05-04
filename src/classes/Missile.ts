@@ -1,5 +1,3 @@
-import { Plane } from './Plane';
-
 export class Missile {
   x: number = 0;
   y: number = 0;
